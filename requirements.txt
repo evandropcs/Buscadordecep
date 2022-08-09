@@ -1,0 +1,11 @@
+# Django
+Django==4.1
+asgiref==3.5.2
+backports.zoneinfo==0.2.1
+sqlparse==0.4.2
+
+# Libs
+python-decouple==3.6
+
+# Banco
+psycopg2==2.9.3
