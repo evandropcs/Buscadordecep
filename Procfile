@@ -1,1 +1,1 @@
-web: gunicorn BuscadordeCep.wsgi
+web: gunicorn buscador.wsgi
